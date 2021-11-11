@@ -6,14 +6,9 @@
       "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
     },
     {
-      "name": "Jonny Test",
-      "description": "YEET",
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
       "id": 2
-    },
-    {
-      "name": "Empty Deck",
-      "description": "Testing Not Enough Cards",
-      "id": 3
     }
   ],
   "cards": [
@@ -36,35 +31,16 @@
       "deckId": 1
     },
     {
-      "cards": [],
-      "front": "b",
-      "back": "b",
-      "deckId": 1,
-      "id": 7
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 2,
+      "id": 4
     },
     {
-      "front": "WEEEEE",
-      "back": "NOOOOO",
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
       "deckId": 2,
-      "id": 8
-    },
-    {
-      "front": "YEEEEE",
-      "back": "YAYYY",
-      "deckId": 2,
-      "id": 9
-    },
-    {
-      "front": "Jonny",
-      "back": "Nguyen",
-      "deckId": 2,
-      "id": 10
-    },
-    {
-      "front": "I Love",
-      "back": "pizza",
-      "deckId": 2,
-      "id": 11
-    }
+      "id": 5
+    }  
   ]
 }
